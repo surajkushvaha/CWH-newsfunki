@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "class based compoment"
+git branch -M main
+git remote add origin https://github.com/surajkushvaha/CWH-newsfunki.git
+git push -u origin main
