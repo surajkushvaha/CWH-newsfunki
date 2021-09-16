@@ -1,0 +1,8 @@
+.btns {
+  margin: 1rem;
+}
+
+.prev,
+.next {
+  border-radius: 5px !important;
+}

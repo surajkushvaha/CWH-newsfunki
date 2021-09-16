@@ -1,0 +1,21 @@
+.cardNewsItem {
+  border-radius: 10px;
+  transform: scale(0.95);
+}
+
+.imgNewsItem {
+  border-top-left-radius: 10px !important;
+  border-top-right-radius: 10px !important;
+}
+
+.cardNewsItem:hover {
+  transform: scale(1);
+  box-shadow: 0 10px 10px rgb(97, 97, 97);
+}
+
+.btnNewsItem {
+  border-bottom-left-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+}
